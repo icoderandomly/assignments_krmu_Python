@@ -1,0 +1,213 @@
+Menu:
+1. Manual entry
+2. Load from CSV
+3. Exit
+Choose (1/2/3): 1
+Enter at least 5 students (type 'done' as name to finish):
+Name: harsh
+Marks (0-100): 88
+Name: naman
+Marks (0-100): 67
+Name: lakshay 
+Marks (0-100): 68
+Name: nishnat
+Marks (0-100): 78
+Name: nikilesh
+Marks (0-100): 35
+Name: done
+
+--- Analysis Summary ---
+Students analysed: 5
+Average: 67.20
+Median: 68.0
+Highest: harsh (88)
+Lowest: nikilesh (35)
+
+Grade distribution:
+A: 0
+B: 1
+C: 1
+D: 2
+F: 1
+
+Passed (4): harsh, naman, lakshay, nishnat
+Failed (1): nikilesh
+
+Name                  Marks    Grade
+------------------------------------
+harsh                     88        B
+naman                     67        D
+lakshay                   68        D
+nishnat                   78        C
+nikilesh                  35        F
+
+Export results to CSV? (y/n): y
+Filename (example: results.csv): result.csv
+Exported to result.csv
+
+Menu:
+1. Manual entry
+2. Load from CSV
+3. Exit
+Choose (1/2/3): 2
+CSV path: result.csv 
+
+--- Analysis Summary ---
+Students analysed: 5
+Average: 67.20
+Median: 68.0
+Highest: harsh (88)
+Lowest: nikilesh (35)
+
+Grade distribution:
+A: 0
+B: 1
+C: 1
+D: 2
+F: 1
+
+Passed (4): harsh, naman, lakshay, nishnat
+Failed (1): nikilesh
+
+Name                  Marks    Grade
+------------------------------------
+harsh                     88        B
+naman                     67        D
+lakshay                   68        D
+nishnat                   78        C
+nikilesh                  35        F
+
+Export results to CSV? (y/n):
+
+
+
+
+
+D: 2
+F: 1
+
+Passed (4): harsh, naman, lakshay, nishnat
+Failed (1): nikilesh
+
+Name                  Marks    Grade
+------------------------------------
+harsh                     88        B
+naman                     67        D
+lakshay                   68        D
+nishnat                   78        C
+nikilesh                  35        F
+
+Export results to CSV? (y/n):
+
+
+
+
+D: 2
+F: 1
+
+Passed (4): harsh, naman, lakshay, nishnat
+Failed (1): nikilesh
+
+Name                  Marks    Grade
+------------------------------------
+harsh                     88        B
+naman                     67        D
+lakshay                   68        D
+nishnat                   78        C
+nikilesh                  35        F
+
+D: 2
+F: 1
+
+Passed (4): harsh, naman, lakshay, nishnat
+Failed (1): nikilesh
+
+Name                  Marks    Grade
+------------------------------------
+harsh                     88        B
+naman                     67        D
+lakshay                   68        D
+D: 2
+F: 1
+
+Passed (4): harsh, naman, lakshay, nishnat
+Failed (1): nikilesh
+
+Name                  Marks    Grade
+------------------------------------
+harsh                     88        B
+D: 2
+F: 1
+
+Passed (4): harsh, naman, lakshay, nishnat
+Failed (1): nikilesh
+
+Name                  Marks    Grade
+D: 2
+F: 1
+
+Passed (4): harsh, naman, lakshay, nishnat
+Failed (1): nikilesh
+D: 2
+F: 1
+
+Passed (4): harsh, naman, lakshay, nishnat
+Failed (1): nikilesh
+
+D: 2
+F: 1
+
+Passed (4): harsh, naman, lakshay, nishnat
+Failed (1): nikilesh
+D: 2
+F: 1
+
+Passed (4): harsh, naman, lakshay, nishnat
+Failed (1): nikilesh
+D: 2
+F: 1
+
+Passed (4): harsh, naman, lakshay, nishnat
+Failed (1): nikilesh
+
+F: 1
+
+Passed (4): harsh, naman, lakshay, nishnat
+Failed (1): nikilesh
+
+Name                  Marks    Grade
+
+Passed (4): harsh, naman, lakshay, nishnat
+Failed (1): nikilesh
+
+Name                  Marks    Grade
+------------------------------------
+harsh                     88        B
+Passed (4): harsh, naman, lakshay, nishnat
+Failed (1): nikilesh
+
+Name                  Marks    Grade
+------------------------------------
+harsh                     88        B
+naman                     67        D
+lakshay                   68        D
+
+Name                  Marks    Grade
+------------------------------------
+harsh                     88        B
+naman                     67        D
+lakshay                   68        D
+nishnat                   78        C
+------------------------------------
+harsh                     88        B
+naman                     67        D
+lakshay                   68        D
+nishnat                   78        C
+naman                     67        D
+lakshay                   68        D
+nishnat                   78        C
+nishnat                   78        C
+nikilesh                  35        F
+nikilesh                  35        F
+
+Export results to CSV? (y/n):
